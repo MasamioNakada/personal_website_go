@@ -1,6 +1,6 @@
 ---
 title: "Sobre mi"
-date: "2023-04-12"
+date: "2025-02-21"
 draft: false
 ---
 
