@@ -1,7 +1,8 @@
 ---
-title: "Welcome to Blowfish! :tada:"
-description: "This page was built using the Blowfish theme for Hugo."
+title: "¡Bienvenido a mi sitio web! :wave:"
+description: "Desarrollador de software apasionado por la tecnología y la innovación."
 ---
+
 
 
 <div class="flex px-4 py-2 mb-8 text-base rounded-md bg-primary-100 dark:bg-primary-900">
@@ -9,14 +10,13 @@ description: "This page was built using the Blowfish theme for Hugo."
     {{< icon "envelope" >}}
   </span>
   <span class="flex items-center justify-between grow dark:text-neutral-300">
-    <span class="prose dark:prose-invert">Want to get in touch?</span>
+    <span class="prose dark:prose-invert">¿Quieres ponerte en contacto?</span>
     <button
       id="contact-button"
       class="px-4 !text-neutral !no-underline rounded-md bg-primary-600 hover:!bg-primary-500 dark:bg-primary-800 dark:hover:!bg-primary-700"
     >
-      Contact me
+      Contáctame
     </button>
   </span>
 </div>
-
 
