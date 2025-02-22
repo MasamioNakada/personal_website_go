@@ -5,6 +5,12 @@
     identifier = "about_me"
 
 [[main]]
+    name = "Proyectos"
+    pageRef = "projects"
+    weight = 11
+    identifier = "projects"
+
+[[main]]
     pre = "github"
     url = "https://github.com/masamionakada"
     identifier = "github"
