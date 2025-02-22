@@ -1,0 +1,12 @@
+themes/blowfish/exampleSite
+.DS_Store
+**/.DS_Store
+.Spotlight-V100
+.Trashes
+*.swp
+*~
+.hugo_build.lock
+resources/_gen/
+public/
+.env
+node_modules/

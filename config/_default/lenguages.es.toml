@@ -1,0 +1,28 @@
+disabled = false
+languageCode = "es"
+languageName = "Spanish"
+weight = 1
+title = "Masami Nakada"
+
+[params]
+    displayName = "ES"
+    isoCode = "es"
+    rtl = false
+    dateFormat = "2 January 2006"
+    logo = "img/logo.JPG"
+    secondaryLogo = "Asunto\\ 5.png"
+    description = "Pagina proyectos personales"
+
+[params.author]
+    name = "Masami Nakada"
+    image = "img/profile.JPG"
+    headline = "Ingeniero de Datos en Icasa"
+    bio = "Mid Data Engineer at Icasa"
+#    links = [
+#      { email = "mailto:nakada2130@gmail.com" },
+#      { github = "https://github.com/masamionakada" },
+#      { instagram = "https://instagram.com/masamionakada" },
+#      { linkedin = "https://linkedin.com/in/masamionakada" },
+#      { medium = "https://medium.com/@nakada2130" },
+#      { whatsapp = "https://wa.me/51952841852" },
+#    ]
