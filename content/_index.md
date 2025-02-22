@@ -1,6 +1,7 @@
 ---
-title: "Welcome to my website! :wave:"
-description: "Software Developer passionate about building efficient and scalable solutions."
+title: "Masami Nakada - Data Engineer"
+description: "Hi! 👋 Welcome to my website where I share my projects and knowledge about software development. Nice to meet you!"
+image: "assets/img/profile.JPG"
 ---
 
 

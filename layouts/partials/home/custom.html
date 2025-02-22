@@ -1,4 +1,8 @@
 {{ $jsHome := resources.Get "js/home.js" | resources.Minify | resources.Fingerprint "sha512" }}
+<meta name="image" content="https://zed.dev/api/og?title=The%20editor%20for%0Awhat%27s%20next" />
+<meta name="og:image" content="https://zed.dev/api/og?title=The%20editor%20for%0Awhat%27s%20next" />
+<meta name="twitter:image" content="https://zed.dev/api/og?title=The%20editor%20for%0Awhat%27s%20next" />
+
 <div id="background">
   {{ partial "partials/home/background.html" . }}
 </div>
